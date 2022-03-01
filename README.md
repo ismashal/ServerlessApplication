@@ -15,9 +15,8 @@ To follow this tutorial you will need:
 
 First of all, download the source code
 ```
-$ git clone 
+$ git clone https://github.com/ismashal/ServerlessApplication.git
 
-$ cd 
 ```
 For sake of simplicity you can use credentials with administrative access to your AWS account. Once you have the credentials, you will need to create the environment variables as shown below:
 ```
